@@ -1,0 +1,23 @@
+{
+  "name": "nodesever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "infusionsoft": "^0.3.7",
+    "infusionsoft-api": "^0.6.0",
+    "mysql": "github:mysqljs/mysql",
+    "node-rest-client": "^3.1.0",
+    "passport": "^0.4.0",
+    "passport-infusionsoft": "0.0.3",
+    "sparkpost": "^2.1.4",
+    "websocket": "^1.0.30"
+  }
+}

@@ -1,0 +1,101 @@
+/* table tbody {
+    font-size: 20px;
+} */
+
+
+/* table td.icon {
+    width: 5%;
+    padding: 17px !important;
+} */
+
+
+/* table td.content {
+    width: 60%;
+}
+
+table td.sentBtn {
+    width: 15%;
+}
+
+table td.percent {
+    width: 10%;
+} */
+
+table.list-border tbody td {
+    border-bottom-width: 0;
+    border-left: none;
+    border-right: none;
+}
+
+.btn-info:hover {
+    color: #212529 !important;
+    background-color: #ffc107 !important;
+    border-color: #ffc107 !important;
+}
+
+.btn-info span.schedule,
+.btn-info:hover span.cancel_emailing {
+    display: inline;
+}
+
+.btn-info span.cancel_emailing,
+.btn-info:hover span.schedule {
+    display: none;
+}
+
+.search-box {
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 10px 10px 5px #ccc;
+    border-color: #b9b8b8
+}
+
+table tbody {
+    font-size: 20px;
+}
+
+table td.icon {
+    width: 5%;
+    padding: 17px !important;
+}
+
+table td.content {
+    width: 60%;
+}
+
+table td.sentBtn {
+    width: 15%;
+}
+
+table td.percent {
+    width: 10%;
+}
+
+table.detail-bordered tbody td {
+    border-bottom-width: 0;
+    border: 1px solid #d5dfe6 !important;
+}
+
+table.detail-bordered tbody tr.header {
+    background-color: lightskyblue;
+}
+
+table.detail-bordered tbody tr.header td {
+    font-weight: bold;
+}
+
+table.detail-bordered tbody td.cols_2 {
+    width: 50%;
+}
+
+table.detail-bordered tbody td.cols_2_2 {
+    width: 25%;
+}
+
+table.detail-bordered tbody tr.odd {
+    background-color: white;
+}
+
+table.detail-bordered tbody tr.even {
+    background-color: #e3f0f9;
+}
